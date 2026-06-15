@@ -4,7 +4,7 @@
 name;comptest
 author;unknown
 version;1.0.0
-type;server
+type;template
 
 # --- CANVAS ELEMENTS ---
 slot;in;80;80;is
