@@ -5,12 +5,12 @@
   "repoDescription": "Official community scripts and templates for KubeJS GUI 2",
   "entries": [
     {
-      "name": "zutting",
+      "name": "cutting",
       "author": "me",
       "version": "1.0.0",
       "type": "server",
       "description": "cutting ig",
-      "path": "server/compactingFix.kubeguitemplate",
+      "path": "cutting.kubeguitemplate",
       "tags": ["create", "fix", "recipe"]
     },
     {
