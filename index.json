@@ -5,11 +5,11 @@
   "repoDescription": "Official community scripts and templates for KubeJS GUI 2",
   "entries": [
     {
-      "name": "compactingFix",
+      "name": "zutting",
       "author": "me",
       "version": "1.0.0",
       "type": "server",
-      "description": "Fixes the iron nugget compacting recipe for Create mod",
+      "description": "cutting ig",
       "path": "server/compactingFix.kubeguitemplate",
       "tags": ["create", "fix", "recipe"]
     },
