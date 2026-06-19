@@ -5,7 +5,7 @@
   "repoDescription": "Official community scripts and templates for KubeJS GUI 2",
   "entries": [
     {
-      "name": "Create Compacting",
+      "name": "[Place Holder]Create Compacting",
       "author": "me",
       "version": "1.0.0",
       "type": "template",
@@ -14,7 +14,7 @@
       "tags": ["create", "fix", "recipe"]
     },
     {
-      "name": "Create Mixing Heated",
+      "name": "[Place Holder]Create Mixing Heated",
       "author": "someone",
       "version": "1.0.0",
       "type": "template",
